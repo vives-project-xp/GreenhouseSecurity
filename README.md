@@ -18,9 +18,9 @@ Het doel van het project is het aansturen van verschillende verlichtingspalen di
 
 ## Team
 De groep bestaat uit:  
-[Luca De Clerck](https://github.com/LucaClrk)
-[Xander Claessens](https://github.com/xanderClaessens)  
-[Domien Verstraete](https://github.com/Belgianwafflecorp)
+[Luca De Clerck](https://github.com/LucaClrk)  
+[Xander Claessens](https://github.com/xanderClaessens)    
+[Domien Verstraete](https://github.com/Belgianwafflecorp)  
 
 ## Research
 
