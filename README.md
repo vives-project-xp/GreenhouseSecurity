@@ -29,7 +29,7 @@ De groep bestaat uit:
     - Biometrisch
 
 
-### Pictogram:
+## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is. 
 
 [KB](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
@@ -40,3 +40,15 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 
 ## Links
 [info](https://acd.eu/producten/r308-xh-blackline/)
+
+## BOM 
+
+
+| Beschrijving | Hoeveelheid | Prijs |
+|--------------|-------------|-------|
+| Raspberry pi | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
+| Touchscreen | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
+| Slot | 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
+| Convert cable. | 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
+| **Total Price** | - | **€749.87** |
+
