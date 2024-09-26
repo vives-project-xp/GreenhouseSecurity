@@ -26,4 +26,10 @@ De groep bestaat uit:
 - Toegangssystemen:
     - NFC
     - Authenticator
-    - Biomedisch
+    - Biometrisch
+
+
+Pictogram:
+Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
+[wetgeving](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+
