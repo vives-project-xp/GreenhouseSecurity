@@ -29,7 +29,10 @@ De groep bestaat uit:
     - Biometrisch
 
 
-Pictogram:
-Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
-[wetgeving](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+### Pictogram:
+Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is. 
+
+[KB](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+
+[info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 
