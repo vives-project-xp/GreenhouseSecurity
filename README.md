@@ -13,7 +13,10 @@ Leen Croubels contacteren voor camera's
   - [Research](#research)
 
 ## Doel
-Het doel van het project is het aansturen van verschillende verlichtingspalen die momenteel niet voorzien zijn van bekabeling om aangestuurd te worden. De huidige oplossing is het rondrijden om de verlichting individueel aan te leggen. Op onderstaande foto is te zien over welke verlichtingspalen dit gaan met een gemiddelde afstand van 100m. Hiervoor zal een draadloze oplossing gezocht worden om deze verlichting via de huidige software aan te sturen.
+Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt later ook
+nog een Tiny-house. Dit alles als IoT incubator voor project experience. 
+Ons project zal zorgen voor de security en beveiliging van de serre.
+We maken hiervoor gebruik van bewakings camera's en een toegangs controle systeem.
 
 ## Team
 De groep bestaat uit:  
@@ -35,4 +38,6 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 [KB](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
 
 [info](https://www.besafe.be/nl/bewakingscamera/pictogram)
+
+
 
