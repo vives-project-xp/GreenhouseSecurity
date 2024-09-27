@@ -46,9 +46,9 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 
 | Beschrijving | Hoeveelheid | Prijs |
 |--------------|-------------|-------|
-| Raspberry pi | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
-| Touchscreen | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
-| Slot | 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
-| Convert cable. | 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
-| **Total Price** | - | **€749.87** |
+| Raspberry pi | 1 |  |
+| Touchscreen | 6 |  |
+| Slot | 6 |  |
+| Convert cable. | 6 |  |
+| **Total Price** | - |  |
 
