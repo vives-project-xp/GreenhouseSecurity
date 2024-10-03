@@ -28,4 +28,10 @@ een register van de beeldverwerkingsactiviteiten met de door een koninklijk besl
 
     - Vergunningen: In de meeste gevallen is er geen specifieke vergunning nodig voor het ophangen van bewakingscamera's, maar dit kan verschillen per gemeente. Het is verstandig om dit te controleren bij de lokale overheid.
 
-- Samenvattend: de school moet de camerabewaking registreren bij de politie, voldoen aan de GDPR en Camerabewakingswet, en duidelijke informatie verstrekken aan bezoekers en medewerkers over het gebruik van de camera's.
+### Samenvatting van de stappen:
+1. Aangifte doen bij de politie (voor elke camera).
+2. Overleg met werknemers (voor camera’s op de werkplek).
+3. Pictogrammen en informatieborden plaatsen.
+4. Recht op toegang tot beelden waarborgen.
+5. Veilige opslag en bewaartermijn van maximaal 1 maand.
+6. Informatieplicht naar betrokkenen (GDPR).
