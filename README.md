@@ -50,8 +50,7 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 | Beschrijving | Hoeveelheid | Prijs |
 |--------------|-------------|-------|
 | Raspberry pi | 1 |  |
-| Touchscreen | 6 |  |
-| Slot | 6 |  |
-| Convert cable. | 6 |  |
+| Nummeriek | 1 |  |
+| Pictogram | 1 |  |
 | **Total Price** | - |  |
 
