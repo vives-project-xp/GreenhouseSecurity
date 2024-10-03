@@ -31,18 +31,31 @@ De groep bestaat uit:
     - Authenticator
     - Biometrisch
 
+- Camera's
+    - Stappenplan
+    - 
+
+- Melding wanneer iemand het gebied betreed of inlogt
+    - sms
+    - mail
+
 
 ## Pictogram:
-Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is. 
+Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
+Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info). 
 
-[KB](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+![camera foto](images/image.png)
 
-[info](https://www.besafe.be/nl/bewakingscamera/pictogram)
+
 
 
 
 ## Links
 [info](https://acd.eu/producten/r308-xh-blackline/)
+
+[Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+
+[info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 
 ## BOM 
 
