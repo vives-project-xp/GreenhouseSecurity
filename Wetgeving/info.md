@@ -11,7 +11,24 @@
 - De persoon die verantwoordelijk is voor de verwerking van de gegevens moet
 een register van de beeldverwerkingsactiviteiten met de door een koninklijk besluit (KB van 8 mei 2018) bepaalde informatie bijhouden. Hij moet dit register op verzoek ter beschikking stellen van de Gegevensbeschermingsautoriteit en de politiediensten.
 
--  Hier zijn de belangrijkste stappen die je school moet ondernemen om camera's te mogen ophangen:
+
+
+### Samenvatting van de stappen:
+1. Aangifte doen bij de politie (voor elke camera).
+2. Overleg met werknemers (voor camera’s op de werkplek).
+3. Pictogrammen en informatieborden plaatsen.
+4. Recht op toegang tot beelden waarborgen.
+5. Veilige opslag en bewaartermijn van maximaal 1 maand.
+6. Informatieplicht naar betrokkenen (GDPR).
+
+
+
+
+
+
+### Uitgebreide uitleg
+
+-  Hier is de uitgebreide uitleg die de school moet ondernemen om camera's te mogen ophangen:
 
     - Doelstelling vastleggen: De school moet een duidelijke doelstelling hebben voor de camerabewaking. Dit kan bijvoorbeeld het beveiligen van eigendommen, het beschermen van personen, of het voorkomen van diefstal of vandalisme zijn. De camera’s mogen niet gebruikt worden voor toezicht op personeel of studenten zonder een geldige reden.
 
@@ -28,10 +45,3 @@ een register van de beeldverwerkingsactiviteiten met de door een koninklijk besl
 
     - Vergunningen: In de meeste gevallen is er geen specifieke vergunning nodig voor het ophangen van bewakingscamera's, maar dit kan verschillen per gemeente. Het is verstandig om dit te controleren bij de lokale overheid.
 
-### Samenvatting van de stappen:
-1. Aangifte doen bij de politie (voor elke camera).
-2. Overleg met werknemers (voor camera’s op de werkplek).
-3. Pictogrammen en informatieborden plaatsen.
-4. Recht op toegang tot beelden waarborgen.
-5. Veilige opslag en bewaartermijn van maximaal 1 maand.
-6. Informatieplicht naar betrokkenen (GDPR).
