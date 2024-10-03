@@ -52,6 +52,5 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 | Raspberry pi | 1 |  |
 | Nummeriek | 1 |  |
 | Pictogram | 1 |  |
-| Servo | 1 |  |
 | **Total Price** | - |  |
 
