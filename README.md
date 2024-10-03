@@ -32,7 +32,7 @@ De groep bestaat uit:
     - Biometrisch
 
 
-### Pictogram:
+## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is. 
 
 [KB](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
@@ -40,4 +40,18 @@ Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 [info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 
 
+
+## Links
+[info](https://acd.eu/producten/r308-xh-blackline/)
+
+## BOM 
+
+
+| Beschrijving | Hoeveelheid | Prijs |
+|--------------|-------------|-------|
+| Raspberry pi | 1 |  |
+| Touchscreen | 6 |  |
+| Slot | 6 |  |
+| Convert cable. | 6 |  |
+| **Total Price** | - |  |
 

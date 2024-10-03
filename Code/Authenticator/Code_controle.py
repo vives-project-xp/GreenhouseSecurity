@@ -4,8 +4,8 @@ import pyotp
 # Setup Flask app
 app = Flask(__name__)
 
-# Genereer geheime sleutel (of sla deze elders op)
-secret = "JBSWY3DPEHPK3PXP"  # Dit is slechts een voorbeeld, vervang dit door een echte geheime sleutel
+# Het geheime wachtwoord dat overeenkomt met de Google Authenticator QR-code
+secret = "JBSWY3DPEHPK3PXP"  # Dit moet hetzelfde geheim zijn als in je QR-code!
 totp = pyotp.TOTP(secret)
 
 # Endpoint om de code te verifiëren
@@ -19,7 +19,6 @@ def verify_code():
     
     # Verifieer de TOTP-code
     if totp.verify(ingevoerde_code):
-        # Als de code juist is, kan je hier de hardware aansturen
         print("Toegang verleend!")
         return jsonify({"status": "success", "message": "Toegang verleend!"}), 200
     else:
@@ -29,4 +28,3 @@ def verify_code():
 # Start de server
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-
