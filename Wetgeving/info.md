@@ -36,10 +36,11 @@ een register van de beeldverwerkingsactiviteiten met de door een koninklijk besl
 
     - GDPR (General Data Protection Regulation): Camerabeelden kunnen als persoonsgegevens worden beschouwd. De school moet de GDPR-regels volgen en ervoor zorgen dat de gegevensverwerking rechtmatig, transparant en in overeenstemming met de wet gebeurt. Dit houdt in dat:
 
-    - De school een verwerkingsregister bijhoudt.
-    Camerabeelden alleen worden bewaard voor de noodzakelijke duur (meestal maximaal 30 dagen).
-    Er een verwerkersovereenkomst is als de beelden door een extern bedrijf worden beheerd.
-    Informatieplicht (bordje hangen): De school moet mensen die het gebouw betreden informeren over de camerabewaking. Dit gebeurt door het ophangen van een pictogram dat aangeeft dat er camera's hangen, met daarbij de contactgegevens van de verantwoordelijke voor de verwerking van de beelden.
+        - De school moet een verwerkingsregister bijhouden.
+        - Camerabeelden alleen worden bewaard voor de noodzakelijke duur (maximaal 30 dagen).
+        - Er is een verwerkersovereenkomst als de beelden door een extern bedrijf worden beheerd.
+
+    - Informatieplicht (bordje hangen): De school moet mensen die het gebouw betreden informeren over de camerabewaking. Dit gebeurt door het ophangen van een pictogram dat aangeeft dat er camera's hangen, met daarbij de contactgegevens van de verantwoordelijke voor de verwerking van de beelden.
 
     - Raadpleging van de ondernemingsraad of vakbonden: Als de camera's ook personeelsleden zullen opnemen, moet de school de ondernemingsraad of personeelsvertegenwoordiging raadplegen, aangezien dit betrekking heeft op de werkvloer.
 
