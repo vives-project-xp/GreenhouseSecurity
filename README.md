@@ -81,8 +81,6 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 ## BOM 
 
-=======
->>>>>>> c71a4d0d3d3843b0c030bab34423488bd21abbdd
 ## BOM-Lijst
 
 | Beschrijving | Hoeveelheid | Prijs (€) |
