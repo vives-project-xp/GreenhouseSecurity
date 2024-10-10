@@ -73,11 +73,8 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 - [info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 - [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 - [2-kanaals 3V relais module](https://www.kiwi-electronics.com/nl/2-kanaals-3v-relais-module-20106?search=relais)
-## BOM 
 
-=======
 ## BOM-Lijst
->>>>>>> 74594732eb7bc6d88ae05e35e51f1d25312ff09d
 
 | Beschrijving | Hoeveelheid | Prijs |
 |--------------|-------------|-------|
@@ -89,5 +86,4 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 <<<<<<< HEAD
 
 
-=======
->>>>>>> 74594732eb7bc6d88ae05e35e51f1d25312ff09d
+
