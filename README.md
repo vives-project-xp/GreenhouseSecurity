@@ -65,6 +65,9 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Raspberry pi | 1 |  |
 | Nummeriek | 1 |  |
 | Pictogram | 1 |  |
+| Push-pull solenoids | 4 |  |
+| Montage stukken  | 4 |  |
+| Kables | 7 |   |
 | **Total Price** | - |  |
 
 [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
