@@ -13,5 +13,8 @@ sudo apt upgrade
 ```sh
 sudo apt install python3-pyotp
 sudo apt install python3-qrcode
+sudo apt install python3-rpi.gpio
+sudo pip install pad4pi --break-system-packages
+
 
 ```
