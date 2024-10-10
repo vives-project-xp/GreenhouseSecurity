@@ -76,16 +76,16 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 
 ## BOM-Lijst
 
-| Beschrijving | Hoeveelheid | Prijs |
+| Beschrijving | Hoeveelheid | Prijs (€) |
 |--------------|-------------|-------|
-| Raspberry pi | 1 |  |
-| Nummeriek | 1 |  |
-| Pictogram | 1 |  |
-| Push-pull solenoids | 4 |  |
-| Montage stukken  | 4 |  |
-| Kables | 7 |   |
-| Aftakdoos | 1 |  |
-| Relais module | 1 |  |
+| Raspberry pi | 1 | 61,95 |
+| Nummeriek | 1 | 7,34 |
+| Pictogram | 1 | 2,39 |
+| Push-pull solenoids | 4 | 47,80 |
+| Montage stukken  | 4 | 9,16 |
+| Kables | 7 | 12.39 |
+| Aftakdoos | 1 | 12.79 |
+| Relais module | 1 | 11.90 |
 | **Total Price** | - |  |
 
 
