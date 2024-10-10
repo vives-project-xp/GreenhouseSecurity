@@ -68,3 +68,4 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Pictogram | 1 |  |
 | **Total Price** | - |  |
 
+[klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
