@@ -35,11 +35,13 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 - Melding wanneer iemand het gebied betreed of inlogt
     - SMS
     - Mail
-
+  ### Code
 
 ## Installatie
-
-Gebruik Axis Camera Station
+### Axis Camera Station
+Ga naar de [Axis Camera station 5](https://www.axis.com/products/axis-camera-station/download) pagina om de nieuwste versie te downloaden. Hiermee ben je in staat de Axis camera's te beheren.
+### Python
+Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.
     
 ## Erkenningen
 
