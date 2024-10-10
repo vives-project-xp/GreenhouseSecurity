@@ -98,8 +98,3 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | **Total Price** | - |  |
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> c71a4d0d3d3843b0c030bab34423488bd21abbdd
