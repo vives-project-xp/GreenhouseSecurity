@@ -38,12 +38,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 
 ### Code
 ### Authenticatie op Raspberry Pi
-Na het opstarten van de Raspberry Pi moet je eerst de OS updaten en upgraden:
-```sh
-sudo apt update
-sudo apt upgrade
-
-```
+In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie zullen opzetten op de Raspberry Pi.
 
 ## Installatie
 ### Axis Camera Station
