@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
-    <mxGraphModel dx="746" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,39 @@
             <mxPoint x="539.1500000000001" y="442.00000000000006" as="sourcePoint" />
             <mxPoint x="468" y="442.41" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-40" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" vertex="1" parent="1">
+          <mxGeometry x="191" y="393" width="68.31" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
+          <mxGeometry x="173" y="273" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="1" source="34HhIWLY_IuWqHGvf9qh-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="240" as="sourcePoint" />
+            <mxPoint x="321" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="291.7441860465116" as="sourcePoint" />
+            <mxPoint x="341" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-44" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.454;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="34HhIWLY_IuWqHGvf9qh-40" target="34HhIWLY_IuWqHGvf9qh-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="392" as="sourcePoint" />
+            <mxPoint x="253" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34HhIWLY_IuWqHGvf9qh-45" value="PoE&lt;div&gt;48VDC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="331" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
