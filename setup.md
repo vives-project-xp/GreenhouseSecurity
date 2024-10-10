@@ -1,7 +1,12 @@
-opzetten van authenticatie op raspberry:
+# Opzetten van authenticatie op raspberry:
+
+## Updaten:
 
 ```sh
-function test() {
-  console.log("notice the blank line before this function?");
-}
+sudo apt update
+sudo apt upgrade
+
 ```
+
+
+

@@ -47,6 +47,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 ![camera foto](images/image.png)
 
 
+## installatie
 
 
 
