@@ -86,6 +86,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Raspberry pi | 1 |  |
 | Nummeriek | 1 |  |
 | Pictogram | 1 |  |
+| Relais | 1 | 28,45 |
 | **Total Price** | - |  |
 <<<<<<< HEAD
 
