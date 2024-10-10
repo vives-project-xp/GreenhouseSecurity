@@ -56,7 +56,6 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
 - [Klein Pin Slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 
 
-<<<<<<< HEAD
 ## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info). 
@@ -78,9 +77,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 ## BOM 
 
-=======
 ## BOM-Lijst
->>>>>>> 74594732eb7bc6d88ae05e35e51f1d25312ff09d
 
 | Beschrijving | Hoeveelheid | Prijs |
 |--------------|-------------|-------|
@@ -88,8 +85,5 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Nummeriek | 1 |  |
 | Pictogram | 1 |  |
 | **Total Price** | - |  |
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 74594732eb7bc6d88ae05e35e51f1d25312ff09d
