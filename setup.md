@@ -8,5 +8,10 @@ sudo apt upgrade
 
 ```
 
+## installeren packages:
 
+```sh
+sudo apt install python3-pyotp
+sudo apt install python3-qrcode
 
+```
