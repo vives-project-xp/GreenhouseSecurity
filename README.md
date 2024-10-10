@@ -55,7 +55,6 @@ In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie z
 - [Klein Pin Slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 
 
-<<<<<<< HEAD
 ## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info). 
@@ -74,6 +73,16 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 - [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 - [2-kanaals 3V relais module](https://www.kiwi-electronics.com/nl/2-kanaals-3v-relais-module-20106?search=relais)
 
+<<<<<<< HEAD
+[Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+
+[info](https://www.besafe.be/nl/bewakingscamera/pictogram)
+
+[klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
+## BOM 
+
+=======
+>>>>>>> c71a4d0d3d3843b0c030bab34423488bd21abbdd
 ## BOM-Lijst
 
 | Beschrijving | Hoeveelheid | Prijs (€) |
@@ -89,5 +98,8 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | **Total Price** | - |  |
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> c71a4d0d3d3843b0c030bab34423488bd21abbdd
