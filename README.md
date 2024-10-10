@@ -84,6 +84,8 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Push-pull solenoids | 4 |  |
 | Montage stukken  | 4 |  |
 | Kables | 7 |   |
+| Aftakdoos | 1 |  |
+| Relais module | 1 |  |
 | **Total Price** | - |  |
 
 
