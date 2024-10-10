@@ -23,7 +23,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 
 
 ## Documentatie
-  ### Research
+### Research
   - Toegangssystemen:
     - NFC
     - Authenticator
@@ -35,7 +35,8 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 - Melding wanneer iemand het gebied betreed of inlogt
     - SMS
     - Mail
-  ### Code
+
+### Code
 
 ## Installatie
 ### Axis Camera Station
