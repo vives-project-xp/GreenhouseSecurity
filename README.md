@@ -63,7 +63,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 ![camera foto](images/image.png)
 
 
-## installatie
+## Installatie
 
 
 
@@ -83,6 +83,10 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Pictogram | 1 |  |
 | Relais | 1 | 3.95 |
 | **Total Price** | - |  |
+
+Nodig:
+-  48V to 12V DC DC Converter
+-  48V to 5V DC DC Converter
 
 
 
