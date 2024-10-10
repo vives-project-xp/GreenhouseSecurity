@@ -37,12 +37,21 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
     - Mail
 
 ### Code
+### Authenticatie op Raspberry Pi
+Na het opstarten van de Raspberry Pi moet je eerst de OS updaten en upgraden:
+```sh
+sudo apt update
+sudo apt upgrade
+
+```
 
 ## Installatie
 ### Axis Camera Station
 Ga naar de [Axis Camera station 5](https://www.axis.com/products/axis-camera-station/download) pagina om de nieuwste versie te downloaden. Hiermee ben je in staat de Axis camera's te beheren.
 ### Python
 Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.
+### Raspberry Pi
+Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/) aankopen. Als het mogelijk is een model 3 of hoger. Hierna kan je via een SD kaart de [Raspberry Pi OS](https://www.raspberrypi.com/software/) installeren op je bordje. Hierna kan je dan via HDMI of DP, te zien welk bordje je hebt, verbinden met de Raspberry Pi. 
     
 ## Erkenningen
 
