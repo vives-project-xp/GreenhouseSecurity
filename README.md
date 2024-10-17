@@ -43,17 +43,9 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
     - SMS
     - Mail
 
-### Code
+## Code
 ### Authenticatie op Raspberry Pi
 In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie zullen opzetten op de Raspberry Pi.
-
-## Erkenningen
-
-- [Info](https://acd.eu/producten/r308-xh-blackline/)
-- [Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
-- [Pictogram](https://www.besafe.be/nl/bewakingscamera/pictogram)
-- [Klein Pin Slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
-
 
 ## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
@@ -67,14 +59,23 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 
 
 ## Links
-- [info](https://acd.eu/producten/r308-xh-blackline/)
+- [Info](https://acd.eu/producten/r308-xh-blackline/)
 - [Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
-- [info](https://www.besafe.be/nl/bewakingscamera/pictogram)
-- [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
+- [Info](https://www.besafe.be/nl/bewakingscamera/pictogram)
+- [Klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 - [2-kanaals 3V relais module](https://www.kiwi-electronics.com/nl/2-kanaals-3v-relais-module-20106?search=relais)
 - [Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
-- [info](https://www.besafe.be/nl/bewakingscamera/pictogram)
-- [klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
+- [Info](https://www.besafe.be/nl/bewakingscamera/pictogram)
+- [Klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
+
+
+## Erkenningen
+
+- [Info](https://acd.eu/producten/r308-xh-blackline/)
+- [Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
+- [Pictogram](https://www.besafe.be/nl/bewakingscamera/pictogram)
+- [Klein Pin Slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
+
 ## BOM 
 
 ## BOM-Lijst
