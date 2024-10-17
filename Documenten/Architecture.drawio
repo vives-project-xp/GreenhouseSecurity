@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
-    <mxGraphModel dx="1088" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2257" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,6 +212,15 @@
         </mxCell>
         <mxCell id="rFAmSpcPYVDVq17aFoyT-70" value="VM op Proxmos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="21">
           <mxGeometry x="537" y="246" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rFAmSpcPYVDVq17aFoyT-131" value="&lt;b&gt;&lt;font color=&quot;#0042aa&quot;&gt;Voeding&lt;/font&gt;&lt;/b&gt;" style="shape=mxgraph.ibm.box;prType=classic;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="49" width="200" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="rFAmSpcPYVDVq17aFoyT-132" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9828a_5400r_700w_poeplus_zl2_power_supply;" vertex="1" parent="rFAmSpcPYVDVq17aFoyT-131">
+          <mxGeometry x="68.5" y="54" width="63" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="rFAmSpcPYVDVq17aFoyT-133" value="230VAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rFAmSpcPYVDVq17aFoyT-131">
+          <mxGeometry x="69" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
