@@ -67,7 +67,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 - [Koninklijk Besluit](https://www.besafe.be/sites/default/files/2022-08/ar_pictogramme_-_version_coordonnee_avec_modif_2020.pdf) 
 - [Info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 - [Klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
-
+- [Keypad info](https://learn.adafruit.com/matrix-keypad?view=all)
 
 ## Erkenningen
 
