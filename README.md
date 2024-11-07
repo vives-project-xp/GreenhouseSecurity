@@ -68,6 +68,7 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 - [Info](https://www.besafe.be/nl/bewakingscamera/pictogram)
 - [Klein pin slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 - [Keypad info](https://learn.adafruit.com/matrix-keypad?view=all)
+- [Axis OS](https://www.axis.com/products/axis-camera-station/download) 
 
 ## Erkenningen
 
