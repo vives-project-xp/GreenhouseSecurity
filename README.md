@@ -64,10 +64,10 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
     - Mail
 
 -  ### Project Affiche
-Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren en een paar foto's. 
-Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.
-
-<img src="images/affiche.png" alt="affiche" width="400" length="800"/>
+      Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het          project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren        een paar foto's. 
+      Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk       uit te leggen over wat dit gaat.
+      
+      <img src="images/affiche.png" alt="affiche" width="400" length="800"/>
 
 ## Code
 ### Authenticatie op Raspberry Pi
