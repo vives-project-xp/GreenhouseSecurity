@@ -59,11 +59,11 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
       Omtrent de wet van de privacy zijn er heel wat wettem over het gebruik van camera's. Uiteraard moeten wij met al deze wetten rekening houden tijdens het maken van dit project.  
       Om dit te verduidelijken kan u een kijkje nemen in ons document "[info](./Wetgeving/info.md)".
 
-- Melding wanneer iemand het gebied betreed of inlogt
+- ### Melding wanneer iemand het gebied betreed of inlogt
     - SMS
     - Mail
 
-### Project Affiche
+-  ### Project Affiche
 Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren en een paar foto's. 
 Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.
 
