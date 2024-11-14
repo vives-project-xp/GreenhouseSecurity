@@ -11,7 +11,23 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
   - [Inhoud](#inhoud)
   - [Team](#team)
   - [Installatie](#installatie)
+    - [Axis Camera Station](#axis-camera-station)
+    - [Python](#python)
+    - [Raspberry Pi](#raspberry-pi)
   - [Documentatie](#documentatie)
+    - [Research](#research)
+      - [Toegangssystemen](#toegangssystemen)
+        - [NFC](#nfc)
+        - [Authenticator](#authenticator)
+        - [Biometrisch](#biometrisch)
+      - [Camera's](#cameras)
+        - [Axis](#axis)
+        - [Stappenplan](#stappenplan)
+        - [Privacy](#privacy)
+      - [Project Affiche](#project-affiche)
+  - [Code](#code)
+  - [Pictogram:](#pictogram)
+  - [Links](#links)
   - [Erkenningen](#erkenningen)
   - [BOM-Lijst](#bom-lijst)
   - [Research](#research)
@@ -102,7 +118,6 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 - [Pictogram](https://www.besafe.be/nl/bewakingscamera/pictogram)
 - [Klein Pin Slot](https://www.credexalarmsystems.eu/nl/eb-004-conas-electric-bolt-lockfor-automatic-doors-failsafe.html)
 
-## BOM 
 
 ## BOM-Lijst
 
