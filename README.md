@@ -47,7 +47,17 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
         Jammer genoeg zullen zij niet aan biometrie doen omdat deze gegevens moeten opgeslaan worden. Door de privacy wet mogen wij dit soort gegevens niet opslaan.
 
 - Camera's
-    - Stappenplan
+    - Axis   
+      Wij werden Axis camera's aangeboden van de opleiding Elektronica-ICT. Axis is een Zweedse manufacturer die zich spezialiseert in het verkopen van camera's, access control en netwerk audio apparaten voor bedrijven. We werken dus met een high end camera systeem die bedoelt is voor industriële bedrijven. Deze camera's komen met geïntegreerde software en software van Axis zelf die we kunnen gebruiken voor heel wat doeleinden.  
+      Met de software zijn we in staat om beelden te streamen, op te nemen en zelfs motion detection toe te passen.
+    - Stappenplan  
+      Het is heel gemakkelijk om deze apparaten operationeel te maken.  
+      Installeer eerst de Axis Software die u nodig acht voor het gebruik van de camera's. Wij hebben hiervoor Axis Camera Station 5 gebruikt.  
+      Plug de camera's in via Ethernet in je netwerk en na een paar minuten zouden deze moeten verschijnen in de applicatie.  
+      In de applicatie kan u dan kiezen wat u met deze camera's wilt doen.  
+    - Privacy  
+      Omtrent de wet van de privacy zijn er heel wat wettem over het gebruik van camera's. Uiteraard moeten wij met al deze wetten rekening houden tijdens het maken van dit project.  
+      Om dit te verduidelijken kan u een kijkje nemen in ons document "[info](./Wetgeving/info.md)".
 
 - Melding wanneer iemand het gebied betreed of inlogt
     - SMS
