@@ -32,30 +32,30 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
 ## Documentatie
 ### Research
   - Toegangssystemen:
-    - NFC  
+    - ### NFC  
           NFC staat voor Near-Field Communication. Zoals de naam zelf verklapt is dit een manier om                  communicatie in te schakelen over een kleine afstand. Een set van communicatie protocollen maken           het mogelijk om communicatie tussen elektronische apparaten in staat te stellen over een afstand           van max 4cm.  
           Dit werkt met enerzijds een zend-/ontvangapparaat met een voeding en anderzijds een object met             een chip en antenne, zoals een kaart, die gezamenlijk een NFC-tag hebben. De tag heeft geen                voeding nodig omdat hij inductie energie ontvangt van het apparaat.  
           NFC wordt in veel toepassingen gebruikt. Denk aan betalingtransacties,sleutelhanger voor                   toegangscontrole...  
 
         NFC is dus een mogelijke optie voor toegangscontrole tot de serre. Je kan dan met een NFC-tag de serre openen. Bijvoorbeeld aan de hand van je GSM en een simpele RFID-chip.  
-    - Authenticator  
+    - ### Authenticator  
         Een authenticator is ook een manier om toegangscontrole toe te passen. Denk aan de google authenticator die je constant codes geeft die veranderen. Dit zorgt voor een veilige manier van toegangscontrole omdat je "wachtwoord" tot de serre voor iedereen anders is en constant verandert. Ook is er geen nood aan een kaart of dergelijke, die je mogelijks kan verliezen.  
-    - Biometrisch  
+    - ### Biometrisch  
         Biometrie betekent letterlijk "meten van de levenden" en verwijst in een hele brede zin naar de studie van levende wezens. Wij zullen deze studies toepassen om een biometrisch toegangscontrole systeem te maken.  
         Biometrie kan je "meten", denk aan je vingerafdruk, irispatroon, gelaatstrekken of DNA. Wij zullen niet zo ver gaan als DNA, maar iets zoals je vingerafdruk kan zeker zorgen voor een goeie beveiliging.
         Een toegangskaart of tag zoals bij NFC kan je verliezen, je vinger zal je niet zo rap verliezen.
         Jammer genoeg zullen zij niet aan biometrie doen omdat deze gegevens moeten opgeslaan worden. Door de privacy wet mogen wij dit soort gegevens niet opslaan.
 
 - Camera's
-    - Axis   
+    - ### Axis   
       Wij werden Axis camera's aangeboden van de opleiding Elektronica-ICT. Axis is een Zweedse manufacturer die zich spezialiseert in het verkopen van camera's, access control en netwerk audio apparaten voor bedrijven. We werken dus met een high end camera systeem die bedoelt is voor industriële bedrijven. Deze camera's komen met geïntegreerde software en software van Axis zelf die we kunnen gebruiken voor heel wat doeleinden.  
       Met de software zijn we in staat om beelden te streamen, op te nemen en zelfs motion detection toe te passen.
-    - Stappenplan  
+    - ### Stappenplan  
       Het is heel gemakkelijk om deze apparaten operationeel te maken.  
       Installeer eerst de Axis Software die u nodig acht voor het gebruik van de camera's. Wij hebben hiervoor Axis Camera Station 5 gebruikt.  
       Plug de camera's in via Ethernet in je netwerk en na een paar minuten zouden deze moeten verschijnen in de applicatie.  
       In de applicatie kan u dan kiezen wat u met deze camera's wilt doen.  
-    - Privacy  
+    - ### Privacy  
       Omtrent de wet van de privacy zijn er heel wat wettem over het gebruik van camera's. Uiteraard moeten wij met al deze wetten rekening houden tijdens het maken van dit project.  
       Om dit te verduidelijken kan u een kijkje nemen in ons document "[info](./Wetgeving/info.md)".
 
