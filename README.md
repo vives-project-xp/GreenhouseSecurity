@@ -86,8 +86,11 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
       <img src="images/affiche.png" alt="affiche" width="400" length="800"/>
 
 ## Code
-### Authenticatie op Raspberry Pi
-In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie zullen opzetten op de Raspberry Pi.
+#### Authenticatie op Raspberry Pi
+In de [Setup](./Documenten/setup.md) file Kan je lezen welke libraries u zal nodig hebben om het programma te schrijven.
+Met dit programma gebruiken we user input van het numeriek toegangsbordje. Met deze input kunnen we verifiëren als deze persoon wel toegang heeft tot de serie en kunnen we de deuren gesloten of geopend zetten.
+Als je de volledige code wil bekijken kan je dit vinden in de [Code](Code/Authenticator/) folder.
+#### 
 
 ## Pictogram:
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
