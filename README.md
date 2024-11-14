@@ -43,6 +43,12 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
     - SMS
     - Mail
 
+### Project Affiche
+Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren en een paar foto's. 
+Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.
+
+<img src="images/affiche.png" alt="affiche" width="400" length="800"/>
+
 ## Code
 ### Authenticatie op Raspberry Pi
 In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie zullen opzetten op de Raspberry Pi.
@@ -51,8 +57,7 @@ In de [Setup](./Documenten/setup.md) file Kan je lezen hoe we de authenticatie z
 Verplicht pictogram met aanduiding dat er camera bewaking aanwezig is.
 Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info). 
 
-![camera foto](images/image.png)
-
+<img src="images/camerawarning.png" alt="camera sticker" width="200" length="400"/>
 
 ## Installatie
 
