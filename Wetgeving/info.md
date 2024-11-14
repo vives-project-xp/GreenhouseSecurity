@@ -1,4 +1,7 @@
 ##  Belangrijkste stappen die we moeten ondernemen om camera's te mogen ophangen:
+### We zitten met 2 situaties waar we rekening mee moeten houden en die zijn:
+    - camera wetgeving
+    - camera op werkplaats
 
 - Doelstelling vastleggen: De school moet een duidelijke doelstelling hebben voor de camerabewaking. Dit kan bijvoorbeeld het beveiligen van eigendommen, het beschermen van personen, of het voorkomen van diefstal of vandalisme zijn. De camera’s mogen niet gebruikt worden voor toezicht op personeel of studenten zonder een geldige reden.
 
