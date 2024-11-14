@@ -95,9 +95,6 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 
 <img src="images/camerawarning.png" alt="camera sticker" width="200" length="400"/>
 
-## Installatie
-
-
 
 ## Links
 - [Info](https://acd.eu/producten/r308-xh-blackline/)
