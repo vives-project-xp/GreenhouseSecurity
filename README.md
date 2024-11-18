@@ -56,6 +56,12 @@ Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat
   - Motion Detection uittesten
   - Netwerk in orde stellen(VLAN)
   - Overleg wetgeving camera's
+- #### Sprint 4
+  -  Camera's installeren in serre
+  -  Toegangssysteem installeren in serre
+  -  Programma toegang afwerken
+  -  Camera's en Raspberry Pi verbinden met netwerk
+  -  Notificaties versturen bij motion detection
 
 ## Installatie
 ### Axis Camera Station
