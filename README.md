@@ -10,6 +10,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 - [GreenhouseSecurity](#greenhousesecurity)
   - [Inhoud](#inhoud)
   - [Team](#team)
+  - [Planning](#planning)
   - [Installatie](#installatie)
     - [Axis Camera Station](#axis-camera-station)
     - [Python](#python)
@@ -36,6 +37,25 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 - [Luca De Clerck](https://github.com/LucaClrk)  
 - [Xander Claessens](https://github.com/xanderClaessens)   
 - [Domien Verstraete](https://github.com/Belgianwafflecorp)  
+
+## Planning
+Onze planning kan je in detail bekijken op [monday.com](https://student153788.monday.com/boards/1709344846).  
+Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat we zullen doen.  
+### Planner
+- #### Sprint 1
+  - Architectuur document opgesteld
+  - Axis Software testen
+  - Camera functies testen
+- #### Sprint 2
+  - VM aanmaken
+  - Code schrijven voor Raspberry Pi
+  - Elektronisch schema uittekenen
+- #### Sprint 3
+  - Affiche maken
+  - Starten PowerPoint
+  - Motion Detection uittesten
+  - Netwerk in orde stellen(VLAN)
+  - Overleg wetgeving camera's
 
 ## Installatie
 ### Axis Camera Station
