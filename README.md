@@ -27,6 +27,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
         - [Privacy](#privacy)
       - [Project Affiche](#project-affiche)
   - [Code](#code)
+  - [Integratie](#integratie)
   - [Pictogram:](#pictogram)
   - [Links](#links)
   - [Erkenningen](#erkenningen)
@@ -117,6 +118,11 @@ In de [Setup](./Documenten/setup.md) file Kan je lezen welke libraries u zal nod
 Met dit programma gebruiken we user input van het numeriek toegangsbordje. Met deze input kunnen we verifiëren als deze persoon wel toegang heeft tot de serie en kunnen we de deuren gesloten of geopend zetten.  
 
 Als je de volledige code wil bekijken kan je dit vinden in de [Code](Code/Authenticator/) folder.
+
+## Integratie
+De serre bestaat niet alleen voor het project Security. Er zijn nog heel wat andere projecten die ook rond de serre gaan. Het is dan belangrijk om ervoor te zorgen dat al deze projecten samen kunnen werken.  
+Hiermee wordt dan bedoelt dat deze projecten op hetzelfde netwerk werken, elkaar niet storen en als 1 geheel werkt.  
+In deze topic zullen we uitleggen hoe wij ervoor zorgen dat ons project geïntegreerd is zodat het kan samenwerken met alle andere projecten.
 
 
 ## Pictogram:
