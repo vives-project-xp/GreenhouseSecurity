@@ -174,6 +174,8 @@ Dit staat in het Koninklijk besluit dat dit zo moet (zie links voor meer info).
 | Kables | 7 | 12.39 |
 | Aftakdoos | 1 | 12.79 |
 | Relais module | 1 | 11.90 |
+| Tapbout met moer | 1 | 7,99 |
+| Fastener met draadeind | 1 | 3,99 |
 | **Total Price** | - |  |
 
 
