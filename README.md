@@ -10,6 +10,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 - [GreenhouseSecurity](#greenhousesecurity)
   - [Inhoud](#inhoud)
   - [Team](#team)
+  - [Features](#features)
   - [Planning](#planning)
   - [Installatie](#installatie)
     - [Axis Camera Station](#axis-camera-station)
@@ -37,7 +38,13 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
 
 - [Luca De Clerck](https://github.com/LucaClrk)  
 - [Xander Claessens](https://github.com/xanderClaessens)   
-- [Domien Verstraete](https://github.com/Belgianwafflecorp)  
+- [Domien Verstraete](https://github.com/Belgianwafflecorp)
+
+## Features
+-  Security beelden van de serre
+-  Mogelijkheid om security beelden overal te bekijken
+-  Toegang tot serre controleren
+-  Mogelijkheid om de deuren te sluiten
 
 ## Planning
 Onze planning kan je in detail bekijken op [monday.com](https://student153788.monday.com/boards/1709344846).  
