@@ -64,6 +64,7 @@ Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat
   - Motion Detection uittesten
   - Netwerk in orde stellen(VLAN)
   - Overleg wetgeving camera's
+  - 3D-stukken printen
 - #### Sprint 4
   -  Camera's installeren in serre
   -  Toegangssysteem installeren in serre
