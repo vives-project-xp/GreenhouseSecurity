@@ -122,7 +122,10 @@ Als je de volledige code wil bekijken kan je dit vinden in de [Code](Code/Authen
 ## Integratie
 De serre bestaat niet alleen voor het project Security. Er zijn nog heel wat andere projecten die ook rond de serre gaan. Het is dan belangrijk om ervoor te zorgen dat al deze projecten samen kunnen werken.  
 Hiermee wordt dan bedoelt dat deze projecten op hetzelfde netwerk werken, elkaar niet storen en als 1 geheel werkt.  
-In deze topic zullen we uitleggen hoe wij ervoor zorgen dat ons project geïntegreerd is zodat het kan samenwerken met alle andere projecten.
+In deze topic zullen we uitleggen hoe wij ervoor zorgen dat ons project geïntegreerd is zodat het kan samenwerken met alle andere projecten.  
+
+Het project Home-Assistant zal ervoor zorgen dat er een netwerk aanwezig is in de serre. Dit netwerk zal ons in staat stellen om de gebruikte camera's voor het project te verbinden met dit netwerk.  
+Door dit te doen heeft Home-Assistant de mogelijkheid om de camera beelden te bekijken op hun applicatie. Op deze manier is ons project geïntegreerd met de andere projecten, want home-assistant zorgt voor de integratie van alle projecten.
 
 
 ## Pictogram:
