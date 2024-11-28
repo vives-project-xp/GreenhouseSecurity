@@ -119,6 +119,15 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
         - SMS
         - Mail
 -  ### 3D-prints
+      Om de camera in de serre te plaatsen hebben wij 3D-stukken aangevraagd. Deze 3D-prints hebben wij zelf getekend in AutoDesk Inventor.  
+
+      <img src="images/montageArm.png" alt="3D-print" width="400" length="600"/>
+      <img src="images/voetCamera.png" alt="3D-print" width="400" length="600"/>    
+      <img src="images/2-voet.jpg" alt="3D-print" width="400" length="600"/>  
+      
+      De arm stukken zullen we gebruiken om te monteren aan het dak. De voet kunnen we dan monteren aan deze armen. Na deze installatie kunnen we gemakkelijk de camera aan de voet monteren voor een stabiele installatie.  
+
+      <img src="images/concept-installatie.jpg" alt="3D-print" width="400" length="600"/>  
 
 -  ### Project Affiche
       Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het          project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren        een paar foto's. 
