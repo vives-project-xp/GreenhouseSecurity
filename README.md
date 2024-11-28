@@ -133,6 +133,7 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
       De arm stukken zullen we gebruiken om te monteren aan het dak. De voet kunnen we dan monteren aan deze armen. Na deze installatie kunnen we gemakkelijk de camera aan de voet monteren voor een stabiele installatie.  
 
       <img src="images/concept-installatie.jpg" alt="3D-print" width="400" length="600"/>  
+      <img src="images/montage-dome.jpg" alt="3D-print" width="300" length="500"/>
 
 -  ### Installatie Fixed Camera
 De fixed camera komt op het dak te staan. Om dit te doen hebben we iets stevig nodig om de camera te monteren. Dit stuk zal ook tegen de diverse weersomstandigheden bestand moeten zijn.  
