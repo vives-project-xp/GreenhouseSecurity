@@ -1,9 +1,7 @@
-
 # Greenhouse Security
 
-Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt later ook nog een Tiny-house. Dit alles als IoT incubator voor project experience. Ons project zal zorgen voor de security en beveiliging van de serre. We maken hiervoor gebruik van bewakings camera's en een toegangs controle systeem.
-
-
+Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt later ook nog een Tiny-house. Dit alles als IoT incubator voor project experience.   
+Ons project zal zorgen voor de security en beveiliging van de serre. We maken hiervoor gebruik van bewakings camera's en een toegangs controle systeem.
 
 
 ## Inhoud
@@ -16,7 +14,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
     - [Sprint 4](#sprint-4)
-  - [Installatie](#installatie)
+  - [Installatie Software](#installatie-software)
     - [Axis Camera Station](#axis-camera-station)
     - [Python](#python)
     - [Raspberry Pi](#raspberry-pi)
@@ -30,7 +28,11 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
         - [Axis](#axis)
         - [Stappenplan](#stappenplan)
         - [Privacy](#privacy)
-      - [3D-prints](#3d-prints)
+      - [Installatie Camera's](#installatie-cameras)
+        - [Installatie 360 Dome Camera](#installatie-360-dome-camera)
+          - [3D-prints](#3d-prints)
+        - [Installatie Fixed Camera](#installatie-fixed-camera)
+          - [Montage](#montage)
       - [Project Affiche](#project-affiche)
   - [Code](#code)
   - [Integratie](#integratie)
@@ -118,10 +120,13 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
     - #### Melding wanneer iemand het gebied betreed of inlogt
         - SMS
         - Mail
--  ### 3D-prints
+## Installatie Camera's
+
+-  ### Installatie 360 Dome Camera
+  -  ### 3D-prints
       Om de camera in de serre te plaatsen hebben wij 3D-stukken aangevraagd. Deze 3D-prints hebben wij zelf getekend in AutoDesk Inventor.  
 
-      <img src="images/montageArm.png" alt="3D-print" width="400" length="600"/>
+      <img src="images/montageArm.png" alt="3D-print" width="300" length="500"/>
       <img src="images/voetCamera.png" alt="3D-print" width="400" length="600"/>    
       <img src="images/2-voet.jpg" alt="3D-print" width="400" length="600"/>  
       
@@ -129,11 +134,18 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
 
       <img src="images/concept-installatie.jpg" alt="3D-print" width="400" length="600"/>  
 
--  ### Project Affiche
-      Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het          project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren        een paar foto's. 
-      Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk       uit te leggen over wat dit gaat.
-      
-      <img src="images/affiche.png" alt="affiche" width="400" length="800"/>
+-  ### Installatie Fixed Camera
+De fixed camera komt op het dak te staan. Om dit te doen hebben we iets stevig nodig om de camera te monteren. Dit stuk zal ook tegen de diverse weersomstandigheden bestand moeten zijn.  
+Daarom hebben wij geopteerd voor bandijzer. Dit is een plaat ijzer met gaten in die buigbaar en waar je kan door boren.   
+  - #### Montage
+  Dit bandijzer hebben wij zo geplooid dat dit op de railing van het dak zal komen. Dit zal er zo uitzien :
+
+  <img src="images/montage-dak.jpg" alt="bandijzer" width="300" length="500"/>
+
+## Project Affiche
+Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren een paar foto's. Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.
+
+<img src="images/affiche.png" alt="affiche" width="400" length="800"/>
 
 ## Code
 #### Authenticatie op Raspberry Pi
