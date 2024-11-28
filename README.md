@@ -30,6 +30,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
         - [Axis](#axis)
         - [Stappenplan](#stappenplan)
         - [Privacy](#privacy)
+      - [3D-prints](3d-prints)
       - [Project Affiche](#project-affiche)
   - [Code](#code)
   - [Integratie](#integratie)
@@ -117,6 +118,7 @@ Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/
     - #### Melding wanneer iemand het gebied betreed of inlogt
         - SMS
         - Mail
+-  ### 3D-prints
 
 -  ### Project Affiche
       Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het          project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren        een paar foto's. 
