@@ -30,7 +30,7 @@ Op de site campus Brugge Xavarianenstraat komt een serre van 3x6m. Daarbij komt 
         - [Axis](#axis)
         - [Stappenplan](#stappenplan)
         - [Privacy](#privacy)
-      - [3D-prints](3d-prints)
+      - [3D-prints](#3d-prints)
       - [Project Affiche](#project-affiche)
   - [Code](#code)
   - [Integratie](#integratie)
