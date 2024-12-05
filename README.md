@@ -33,6 +33,7 @@ Ons project zal zorgen voor de security en beveiliging van de serre. We maken hi
           - [3D-prints](#3d-prints)
         - [Installatie Fixed Camera](#installatie-fixed-camera)
           - [Montage](#montage)
+      - [Installatie Toegangssysteem](#installatie-toegangssysteem)
       - [Project Affiche](#project-affiche)
   - [Code](#code)
   - [Integratie](#integratie)
@@ -141,7 +142,16 @@ Daarom hebben wij geopteerd voor bandijzer. Dit is een plaat ijzer met gaten in 
   - #### Montage
   Dit bandijzer hebben wij zo geplooid dat dit op de railing van het dak zal komen. Dit zal er zo uitzien :
 
-  <img src="images/montage-dak.jpg" alt="bandijzer" width="300" length="500"/>
+  <img src="images/montage-dak.jpg" alt="bandijzer" width="300" length="500"/>  
+
+## Installatie Toegangssysteem
+Om het toegangssysteem te installeren gebruiken wij 4 solonoids die als een slot werken voor de deuren. Een solonoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
+Hij doet dat aan de hand van een veer.  
+<img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
+De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
+De solonoids worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
+
+<img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
 
 ## Project Affiche
 Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren een paar foto's. Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.
