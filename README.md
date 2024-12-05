@@ -145,11 +145,11 @@ Daarom hebben wij geopteerd voor bandijzer. Dit is een plaat ijzer met gaten in 
   <img src="images/montage-dak.jpg" alt="bandijzer" width="300" length="500"/>  
 
 ## Installatie Toegangssysteem
-Om het toegangssysteem te installeren gebruiken wij 4 solonoids die als een slot werken voor de deuren. Een solonoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
+Om het toegangssysteem te installeren gebruiken wij 4 solenoïden die als een slot werken voor de deuren. Een solenoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
 Hij doet dat aan de hand van een veer.  
 <img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
 De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
-De solonoids worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
+De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
 
 <img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
 
