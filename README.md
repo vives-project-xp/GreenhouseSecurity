@@ -84,12 +84,19 @@ Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat
 ## Installatie Software
 ### Axis Camera Station
 Ga naar de [Axis Camera station 5](https://www.axis.com/products/axis-camera-station/download) pagina om de nieuwste versie te downloaden. Hiermee ben je in staat de Axis camera's te beheren.
+Het is belangrijk om de AXIS Camera Station Client MSI installer te installeren.  
+<img src="images/axis-client.png" alt="axis" width="400" length="200"/>
 ### Python
 Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.  
 je drukt op de knop Extensions aan de linkerkant van je scherm. Dan krijg je een scherm van al de extensies.  
 <img src="images/extensions.png" alt="visual-studio-code" width="200" length="200"/>  
+Hierna kan je Python in typen in de zoekbalk. Dit geeft een lijst met alle extensies die te maken hebben met Python. Je zal de aangeduide versie willen installeren.  
+<img src="images/python.png" alt="visual-studio-code" width="400" length="400"/>
 ### Raspberry Pi
-Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/) aankopen. Als het mogelijk is een model 3 of hoger. Hierna kan je via een SD kaart de [Raspberry Pi OS](https://www.raspberrypi.com/software/) installeren op je bordje. Hierna kan je dan via HDMI of DP, te zien welk bordje je hebt, verbinden met de Raspberry Pi. 
+Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/) aankopen. Als het mogelijk is een model 3 of hoger. Op de website heb je dan de mogelijkheid om de versie te installeren die past bij uw systeem.  
+<img src="images/raspbian-download.png" alt="raspberry-pi" width="300" length="300"/>  
+Hierna kan je via een SD kaart de [Raspberry Pi OS](https://www.raspberrypi.com/software/) installeren op je bordje. 
+Via HDMI of DP, te zien welk bordje je hebt, kan je dan verbinden met de Raspberry Pi. 
 
 ## Documentatie
 ### Research
