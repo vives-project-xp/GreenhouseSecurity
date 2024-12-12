@@ -53,6 +53,7 @@ Ons project zal zorgen voor de security en beveiliging van de serre. We maken hi
 -  Mogelijkheid om security beelden overal te bekijken
 -  Toegang tot serre controleren
 -  Mogelijkheid om de deuren te sluiten
+-  Geauthenticeerde toegang
 
 ## Planning
 Onze planning kan je in detail bekijken op [Notion](https://www.notion.so/Project-Management-Tasks-Projects-Planning-15a7c97a744380f28060f6c136deb173?pvs=4).  
@@ -84,7 +85,9 @@ Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat
 ### Axis Camera Station
 Ga naar de [Axis Camera station 5](https://www.axis.com/products/axis-camera-station/download) pagina om de nieuwste versie te downloaden. Hiermee ben je in staat de Axis camera's te beheren.
 ### Python
-Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.
+Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.  
+je drukt op de knop Extensions aan de linkerkant van je scherm. Dan krijg je een scherm van al de extensies.  
+<img src="images/extensions.png" alt="visual-studio-code" width="200" length="200"/>  
 ### Raspberry Pi
 Eerst en vooral moet je een [Raspberry Pi](https://www.raspberrypi.com/software/) aankopen. Als het mogelijk is een model 3 of hoger. Hierna kan je via een SD kaart de [Raspberry Pi OS](https://www.raspberrypi.com/software/) installeren op je bordje. Hierna kan je dan via HDMI of DP, te zien welk bordje je hebt, verbinden met de Raspberry Pi. 
 
