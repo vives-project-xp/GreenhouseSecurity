@@ -140,9 +140,14 @@ Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat
 
 
 # Het Project  
-## Installatie Camera's  
--  ### Installatie 360 Dome Camera
-  -  ### 3D-prints
+Na dat het research is gebeurd, kunnen we beginnen met het project. Omdat de serre er in het begin van het semester nog niet stond konden we niet onmiddellijk een oplossing bedenken van hoe we de camera in de serre zouden plaatsen, of hoe we het toegangsysteem zouden opzetten in de serre. Maar dit heeft ons niet tegengehouden en we zijn toch begonnen met ideeën hiervoor.
+## Camera's
+We zijn begonnen met de camera's te testen via de Axis Camera Station software. Hier waren we er ook al snel achter gekomen dat er motion detection kon toegepast worden met deze software. Samen met Home Assistant hadden we dan de mogelijkheid om mails te sturen wanneer de camera beweging detecteerde. Om het netwerk niet te belasten moest er een aparte VLAN aangemaakt worden voor de camera's. Naast dit moest er ook een VM aangemaakt worden die ervoor zorgt dat we deze camera beelden overal kunnen bekijken. Deze VM moet dan logischer wijs ook in VLAN 12 terecht komen.  
+
+Na dat de serre geplaatst werd konden we dan ook beginnen nadenken over hoe we deze camera in de serre konden plaatsen.
+### Installatie Camera's  
+
+-  #### Installatie 360 Dome Camera
       Om de camera in de serre te plaatsen hebben wij 3D-stukken aangevraagd. Deze 3D-prints hebben wij zelf getekend in AutoDesk Inventor.  
 
       <img src="images/montageArm.png" alt="3D-print" width="300" length="500"/>
@@ -154,27 +159,33 @@ Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat
       <img src="images/concept-installatie.jpg" alt="3D-print" width="400" length="600"/>  
       <img src="images/montage-dome.jpg" alt="3D-print" width="300" length="500"/>
 
--  ## Installatie Fixed Camera
+-  ### Installatie Fixed Camera
     De fixed camera komt op het dak te staan. Om dit te doen hebben we iets stevig nodig om de camera te monteren. Dit stuk zal ook tegen de diverse weersomstandigheden bestand moeten zijn.  
     Daarom hebben wij geopteerd voor bandijzer. Dit is een plaat ijzer met gaten in die buigbaar en waar je kan door boren.   
-  - ### Montage
     Dit bandijzer hebben wij zo geplooid dat dit op de railing van het dak zal komen. Dit zal er zo uitzien :
 
     <img src="images/montage-dak.jpg" alt="bandijzer" width="300" length="500"/>  
-  
-  - ### Code
-      In de [Setup](./Documenten/setup.md) file Kan je lezen welke libraries u zal nodig hebben om het programma te schrijven.  
-      Met dit programma gebruiken we user input van het numeriek toegangsbordje. Met deze input kunnen we verifiëren als deze persoon wel toegang heeft tot de serie en kunnen we de deuren gesloten of geopend zetten.  
-      Als je de volledige code wil bekijken kan je dit vinden in de [Code](Code/Authenticator/) folder.  
+
+Na dat de installaties gebeurd zijn, konden we beginnen met de beelden op een scherm te krijgen in het lokaal. Hiervoor hebben we een PC geboot met Windows 10. Hierop installeerden we dan de Axis software waardoor we de camera beelden te zien kregen.  
+<img src="images/camera-beeld.jpg" alt="axis" width="400" length="200"/>  
+
+Na commentaar van het hoofd van de infrastructuur werd ons verteld dat de camera op het dak weg moest. Hier hebben wij jammer genoeg dus geen beelden van.
+
 
 ## Installatie Toegangssysteem
-Om het toegangssysteem te installeren gebruiken wij 4 solenoïden die als een slot werken voor de deuren. Een solenoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
-Hij doet dat aan de hand van een veer.  
-<img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
-De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
-De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
+  Om het toegangssysteem te installeren gebruiken wij 4 solenoïden die als een slot werken voor de deuren. Een solenoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
+    Hij doet dat aan de hand van een veer.  
+    <img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
+    De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
+    De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
 
-<img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
+  <img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
+
+  
+### Code
+  In de [Setup](./Documenten/setup.md) file Kan je lezen welke libraries u zal nodig hebben om het programma te schrijven.  
+  Met dit programma gebruiken we user input van het numeriek toegangsbordje. Met deze input kunnen we verifiëren als deze persoon wel toegang heeft tot de serie en kunnen we de deuren gesloten of geopend zetten.  
+  Als je de volledige code wil bekijken kan je dit vinden in de [Code](Code/Authenticator/) folder.  
 
 # Integratie
 De serre bestaat niet alleen voor het project Security. Er zijn nog heel wat andere projecten die ook rond de serre gaan. Het is dan belangrijk om ervoor te zorgen dat al deze projecten samen kunnen werken.  
