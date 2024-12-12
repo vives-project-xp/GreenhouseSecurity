@@ -180,7 +180,7 @@ Na de verschillende toegangsystemen te bestuderen hebben wij besloten om een aut
   De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
   De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
   <img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
-Na dat de code dan ingegeven wordt, wordt via de elektronische schakeling de pinnen geschakeld waardoor de deuren geopend worden.
+  Na dat de code dan ingegeven wordt, wordt via de elektronische schakeling de pinnen geschakeld waardoor de deuren geopend worden.
 
   
 ### Code
