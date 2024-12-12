@@ -89,7 +89,7 @@ Het is belangrijk om de AXIS Camera Station Client MSI installer te installeren.
 
 ### Python
 Python kan je programmeren via [Visual Studio Code](https://code.visualstudio.com/download) of een andere IDE naar keuze. Bij gebruik van Visual Studio Code kan je de Python extensie installeren om zo te beginnen aan je Python programma.  
-je drukt op de knop Extensions aan de linkerkant van je scherm. Dan krijg je een scherm van al de extensies.  
+je drukt op de knop Extensions aan de linkerkant van je scherm. Dan krijg je een scherm van al de extensies.    
 <img src="images/extensions.png" alt="visual-studio-code" width="200" length="200"/>  
 Hierna kan je Python in typen in de zoekbalk. Dit geeft een lijst met alle extensies die te maken hebben met Python. Je zal de aangeduide versie willen installeren.  
 <img src="images/python.png" alt="visual-studio-code" width="400" length="400"/>
