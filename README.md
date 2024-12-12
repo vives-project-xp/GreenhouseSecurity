@@ -171,15 +171,16 @@ Na dat de installaties gebeurd zijn, konden we beginnen met de beelden op een sc
 
 Na commentaar van het hoofd van de infrastructuur werd ons verteld dat de camera op het dak weg moest. Hier hebben wij jammer genoeg dus geen beelden van.
 
-
-## Installatie Toegangssysteem
+## Toegangsysteem
+Na de verschillende toegangsystemen te bestuderen hebben wij besloten om een authenticator te gebruiken. Met de Google authenticator krijg je een code, deze code moet dan met een numeriek ingegeven worden. Na dat deze code ingegeven wordt worden de deuren geopend.
+### Installatie Toegangssysteem
   Om het toegangssysteem te installeren gebruiken wij 4 solenoïden die als een slot werken voor de deuren. Een solenoide is een pin die geactiveerd wordt als deze onder spanning komt te staan.
-    Hij doet dat aan de hand van een veer.  
-    <img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
-    De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
-    De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
-
+  Hij doet dat aan de hand van een veer.  
+  <img src="images/soloind(01).jpg" alt="solonoid" width="400" length="600"/>  
+  De deuren van de serre zijn schuifdeuren, hierdoor hebben wij geopteerd om deze sloten telkens aan de onderkant te plaatsen. Hierdoor kan je de deur niet openen als het slot niet naar beneden is.
+  De solenoïden worden aangestuurd via een relais. Je kunt ervoor kiezen om deze normally closed of normally open te hebben. Wij zouden opteren voor normally closed zodat ze niet constant onder spanning komen te staan.  
   <img src="images/solonoid.jpg" alt="solonoid" width="400" length="600"/>  
+Na dat de code dan ingegeven wordt, wordt via de elektronische schakeling de pinnen geschakeld waardoor de deuren geopend worden.
 
   
 ### Code
