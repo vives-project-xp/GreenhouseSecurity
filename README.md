@@ -80,7 +80,7 @@ Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat
   -  Camera's en Raspberry Pi verbinden met netwerk
   -  Notificaties versturen bij motion detection
 
-## Installatie
+## Installatie Software
 ### Axis Camera Station
 Ga naar de [Axis Camera station 5](https://www.axis.com/products/axis-camera-station/download) pagina om de nieuwste versie te downloaden. Hiermee ben je in staat de Axis camera's te beheren.
 ### Python
