@@ -55,7 +55,7 @@ Ons project zal zorgen voor de security en beveiliging van de serre. We maken hi
 -  Mogelijkheid om de deuren te sluiten
 
 ## Planning
-Onze planning kan je in detail bekijken op [monday.com](https://student153788.monday.com/boards/1709344846).  
+Onze planning kan je in detail bekijken op [Notion](https://www.notion.so/Project-Management-Tasks-Projects-Planning-15a7c97a744380f28060f6c136deb173?pvs=4).  
 Maar hier zullen wij in grote lijnen alles plaatsen wat wij hebben gedaan en wat we zullen doen.  
 ### Planner
 - #### Sprint 1
