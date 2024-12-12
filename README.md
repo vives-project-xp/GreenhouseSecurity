@@ -134,12 +134,10 @@ Via HDMI of DP, te zien welk bordje je hebt, kan je dan verbinden met de Raspber
         - Mail
 
 # Project Affiche
-<div style="display:flex; align-items: center;">
-    <img src="images/affiche.png" alt="affiche" width="400" length="800" style="margin-right: 20px;"/>
-    <div style="display: flex; flex-direction: column; justify-content: center;">
-        <p>Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren een paar foto's. Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.</p>  
-    </div>  
-</div>  
+Voor het project werden wij gevraagd om een affiche te maken. Deze affiche bevat de titel van het project, een korte beschrijving, de vaardigheden die werden gebruikt voor het project te realiseren een paar foto's. Met dit affiche is het de bedoeling om ons project zo aantrekkelijk mogelijk te maken en gemakkelijk uit te leggen over wat dit gaat.  
+
+<img src="images/affiche.png" alt="affiche" width="400" length="800" />  
+
 
 # Het Project  
 ## Installatie Camera's  
